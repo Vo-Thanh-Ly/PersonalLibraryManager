@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\votha\\source\\repos\\PersonalLibraryManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5842092-D4D3-4182-1742-1AA0BDFEC418}|PersonalLibraryManager\\PersonalLibraryManager.csproj|c:\\users\\votha\\source\\repos\\personallibrarymanager\\personallibrarymanager\\form\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5842092-D4D3-4182-1742-1AA0BDFEC418}|PersonalLibraryManager\\PersonalLibraryManager.csproj|solutionrelative:personallibrarymanager\\form\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5842092-D4D3-4182-1742-1AA0BDFEC418}|PersonalLibraryManager\\PersonalLibraryManager.csproj|C:\\Users\\votha\\source\\repos\\PersonalLibraryManager\\personallibrarymanager\\form\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5842092-D4D3-4182-1742-1AA0BDFEC418}|PersonalLibraryManager\\PersonalLibraryManager.csproj|solutionrelative:personallibrarymanager\\form\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5842092-D4D3-4182-1742-1AA0BDFEC418}|PersonalLibraryManager\\PersonalLibraryManager.csproj|c:\\users\\votha\\source\\repos\\personallibrarymanager\\personallibrarymanager\\models\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5842092-D4D3-4182-1742-1AA0BDFEC418}|PersonalLibraryManager\\PersonalLibraryManager.csproj|solutionrelative:personallibrarymanager\\models\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5842092-D4D3-4182-1742-1AA0BDFEC418}|PersonalLibraryManager\\PersonalLibraryManager.csproj|c:\\users\\votha\\source\\repos\\personallibrarymanager\\personallibrarymanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5842092-D4D3-4182-1742-1AA0BDFEC418}|PersonalLibraryManager\\PersonalLibraryManager.csproj|solutionrelative:personallibrarymanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\votha\\source\\repos\\PersonalLibraryManager\\PersonalLibraryManager\\Models\\ViewModel.cs",
+              "RelativeDocumentMoniker": "PersonalLibraryManager\\Models\\ViewModel.cs",
+              "ToolTip": "C:\\Users\\votha\\source\\repos\\PersonalLibraryManager\\PersonalLibraryManager\\Models\\ViewModel.cs",
+              "RelativeToolTip": "PersonalLibraryManager\\Models\\ViewModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAMwBwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T09:12:24.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\votha\\source\\repos\\PersonalLibraryManager\\PersonalLibraryManager\\Program.cs",
+              "RelativeDocumentMoniker": "PersonalLibraryManager\\Program.cs",
+              "ToolTip": "C:\\Users\\votha\\source\\repos\\PersonalLibraryManager\\PersonalLibraryManager\\Program.cs",
+              "RelativeToolTip": "PersonalLibraryManager\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T08:23:12.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\votha\\source\\repos\\PersonalLibraryManager\\PersonalLibraryManager\\Form\\MainForm.cs",
+              "RelativeDocumentMoniker": "PersonalLibraryManager\\Form\\MainForm.cs",
+              "ToolTip": "C:\\Users\\votha\\source\\repos\\PersonalLibraryManager\\PersonalLibraryManager\\Form\\MainForm.cs",
+              "RelativeToolTip": "PersonalLibraryManager\\Form\\MainForm.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAwJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T17:07:06.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\votha\\source\\repos\\PersonalLibraryManager\\PersonalLibraryManager\\Form\\MainForm.cs",
+              "RelativeDocumentMoniker": "PersonalLibraryManager\\Form\\MainForm.cs",
+              "ToolTip": "C:\\Users\\votha\\source\\repos\\PersonalLibraryManager\\PersonalLibraryManager\\Form\\MainForm.cs [Design]",
+              "RelativeToolTip": "PersonalLibraryManager\\Form\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T16:28:34.56Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
